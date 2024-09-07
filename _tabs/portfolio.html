@@ -344,41 +344,34 @@ order: 3
   <div class="overlay"></div>
 </section>
 <script>
-  // Expand portfolio
   document.querySelectorAll('.portfolio-item').forEach((item) => {
     item.addEventListener('click', function (event) {
-      // Prevent click on the expanded item from closing it
       const isExpanded = item.classList.contains('expanded');
       if (!isExpanded) {
-        // Collapse any currently expanded item
         const currentExpanded = document.querySelector('.portfolio-item.expanded');
         if (currentExpanded) {
           currentExpanded.classList.remove('expanded');
         }
 
-        // Expand the clicked item
         item.classList.add('expanded');
 
-        // Show the overlay
         const overlay = document.querySelector('.overlay');
         overlay.style.display = 'block';
         overlay.style.opacity = '1';
       }
 
-      event.stopPropagation(); // Prevent event bubbling
+      event.stopPropagation();
     });
   });
 
-  // Close the expanded item by clicking on the overlay
   document.querySelector('.overlay').addEventListener('click', () => {
     const expandedItem = document.querySelector('.portfolio-item.expanded');
     if (expandedItem) {
       expandedItem.classList.remove('expanded');
     }
 
-    // Hide the overlay
     const overlay = document.querySelector('.overlay');
     overlay.style.opacity = '0';
-    setTimeout(() => (overlay.style.display = 'none'), 400); // Match the transition duration
+    setTimeout(() => (overlay.style.display = 'none'), 400);
   });
 </script>
