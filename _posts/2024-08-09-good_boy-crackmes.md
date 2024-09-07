@@ -18,17 +18,17 @@ render_with_liquid: false
 ## What does it do?
 So the program is very simple it just asks us to provide a password when running it and if we give the false password it calls us a bad boy.
 
-<img src="assets/blog/good_boy-crackmes/1.png" />
+<img src="assets/blog/good_boy-crackmes/1.png" alt="Screenshot 1" />
 
 
 ## Decompiling with Ghidra
 Now we will just open it up in Ghidra and analyze it, we'll only enable the "Decompiler Parameter ID" and let the rest be on default.
 
-<img src="assets/blog/good_boy-crackmes/2.png" />
+<img src="assets/blog/good_boy-crackmes/2.png" alt="Screenshot 2" />
 
 Once analyzed try to find the main function by going to the symbol tree and looking through the functions until we find something that looks like it takes an input.
 
-<img src="assets/blog/good_boy-crackmes/3.png" />
+<img src="assets/blog/good_boy-crackmes/3.png" alt="Screenshot 3" />
 
 It looks like FUN_001010c0 is the main function that asks us for the password.
    
@@ -72,7 +72,7 @@ else {
 }
 ```
 So now we must decode the ASCII and we can do that by just hovering over the ASCII and Ghidra will decode it for you!
-<img src="assets/blog/good_boy-crackmes/4.png" />
+<img src="assets/blog/good_boy-crackmes/4.png" alt="Screenshot 4" />
 
 ```c
 0x30783468 = 0x4h
@@ -83,7 +83,7 @@ So now we must decode the ASCII and we can do that by just hovering over the ASC
 ## Running it with the correct password
 So now we can provide it with the correct password or can we?
 
-<img src="assets/blog/good_boy-crackmes/5.png" />
+<img src="assets/blog/good_boy-crackmes/5.png" alt="Screenshot 5" />
 
 At this point I didn't know why the password wouldn't work, so I started searching a bit around and stumbled across the term endianness. 
 
@@ -91,6 +91,6 @@ In a little-endian architecture, the least significant byte is stored first. So 
 
 So let's try typing it in reverse order so the password should be 'h4x0r'
 
-<img src="assets/blog/good_boy-crackmes/6.png" />
+<img src="assets/blog/good_boy-crackmes/6.png" alt="Screenshot 6" />
 
 It works and we got the message Good Boy! I hope you learned something new, don't forget to check me out on [Youtube](https://youtube.com/@PrintN42) and [𝕏](https://x.com/PrintN42).

@@ -6,7 +6,7 @@ author: PrintN
 tags: [First Post]
 ---
 <div align="center">
-    <img src="https://media1.tenor.com/m/fNAswc_iQIUAAAAC/despicable-me-minion.gif">
+    <img src="https://media1.tenor.com/m/fNAswc_iQIUAAAAC/despicable-me-minion.gif" alt="Minion Dancing">
 </div>
 
 ### Welcome to my first post on this blog, here is a quick overview of what you can expect:

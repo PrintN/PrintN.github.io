@@ -18,17 +18,17 @@ render_with_liquid: false
 ## What does it do?
 So the program is very simple it just asks us to provide a password when running it.
 
-<img src="assets/blog/easy_reverse-crackmes/1.png" />
+<img src="assets/blog/easy_reverse-crackmes/1.png" alt="Screenshot 1" />
 
 
 ## Decompiling with Ghidra
 Now we will just open it up in Ghidra and analyze it, we'll only enable the "Decompiler Parameter ID" and let the rest be on default.
 
-<img src="assets/blog/easy_reverse-crackmes/2.png" />
+<img src="assets/blog/easy_reverse-crackmes/2.png" alt="Screenshot 2" />
 
 Once analyzed the main function should automatically pop up in the Decompiled window, if it hasn't you can find it manually by going to the symbol tree and search for it.
 
-<img src="assets/blog/easy_reverse-crackmes/3.png" />
+<img src="assets/blog/easy_reverse-crackmes/3.png" alt="Screenshot 3" />
 
 Now we can take a look at the code.
    
@@ -80,7 +80,7 @@ if (*(char *)(param_2[1] + 4) == '@') {
 ## Running it with the correct password
 So now we can construct a password that meets the correct conditions.
 
-<img src="assets/blog/easy_reverse-crackmes/4.png" />
+<img src="assets/blog/easy_reverse-crackmes/4.png" alt="Screenshot 4" />
 
 
 It works! I hope you learned something new, don't forget to check me out on [Youtube](https://youtube.com/@PrintN42) where I have some great videos.
