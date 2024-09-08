@@ -1,7 +1,7 @@
 ---
-title: easy_reverse - CrackMes Walkthrough
+title: easy_reverse - Crackmes Walkthrough
 pubDate: 07/08/2024
-description: A walkthrough of "easy_reverse" on CrackMes.
+description: A walkthrough of "easy_reverse" on Crackmes.
 author: PrintN
 tags: [Crackmes,Reverse Engineering,Walkthrough]
 render_with_liquid: false
