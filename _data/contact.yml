@@ -8,3 +8,6 @@
 
 - type: youtube
   icon: "fa-brands fa-youtube"
+
+- type: odysee
+  icon: "fa-brands fa-odysee"

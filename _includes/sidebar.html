@@ -59,7 +59,7 @@
           {%- capture url -%}
             https://{{ entry.type }}.com/{{ site[entry.type].username }}
           {%- endcapture -%}
-        {% when 'youtube' %}
+        {% when 'youtube', 'odysee' %}
           {%- capture url -%}
             https://{{ entry.type }}.com/@{{ site[entry.type].username }}
           {%- endcapture -%}

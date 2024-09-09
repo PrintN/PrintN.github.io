@@ -310,12 +310,14 @@
 
 .portfolios .portfolio-item .expandable-content .icons {
   display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
   justify-content: center;
-  align-items: center;
 }
 
 .portfolios .portfolio-item .expandable-content .icons .icon {
-  background-color: var(--color-primary);
+  color: var(--sidebar-btn-color);
+  background-color: var(--sidebar-btn-bg);
   border-radius: 50%;
   width: 50px;
   height: 50px;
@@ -324,13 +326,15 @@
   justify-content: center;
   margin: 0 1rem;
   cursor: pointer;
+  box-shadow: var(--sidebar-border-color) 0 0 0 1px;
+  border-bottom: none;
 }
 
 .portfolios .portfolio-item .expandable-content p {
   display: flex;
   text-align: center;
   justify-content: center;
-  padding: 5px;
+  padding-inline: 2%;
 }
 
 .portfolios .portfolio-item .expandable-content .icons .icon i {
@@ -339,12 +343,8 @@
   margin: 0 1rem;
 }
 
-.portfolios .portfolio-item .expandable-content .icons .icon:hover {
-  background-color: var(--filepath-text-color);
-}
-
 .portfolios .portfolio-item .expandable-content .icons .icon:hover i {
-  color: var(--color-primary);
+  color: var(--sidebar-active-color);
 }
 
 .portfolios .portfolio-item .expandable-content .tech-icons img {
@@ -355,10 +355,12 @@
 /* Expanded state for the portfolio item */
 .portfolio-item.expanded {
   position: fixed;
-  width: 75vw;
-  height: 80vh;
-  transform: translate(-3%, -15%) scale(1);
+  width: 65vw;
+  height: 75vh;
   z-index: 3;
+  margin-top: -5%;
+  cursor: default;
+  overflow: hidden;
 }
 
 /* Overlay for the expanded state */
@@ -377,6 +379,13 @@
 .portfolio-item.expanded .expandable-content {
   opacity: 1;
   transform: scale(1);
+  overflow-y: auto; /* Enable vertical scrolling */
+  max-height: 100%; /* Ensure it doesn't exceed the height of the expanded item */
+  padding: 20px; /* Add some padding for better readability */
+  box-sizing: border-box; /* Ensure padding doesn't affect the height */
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
 }
 
 .portfolio-item.expanded .expandable-content .project-links {
@@ -424,6 +433,7 @@
   display: flex;
   justify-content: center;
   color: var(--filepath-text-color);
+  border-bottom: none;
 }
 
 /* Show the overlay when an item is expanded */
@@ -432,14 +442,43 @@
   opacity: 1;
 }
 
-@media screen and (min-width: 1649px) {
+@media screen and (max-width: 850px) {
   .portfolio-item.expanded {
-    width: 72vw;
+    position: fixed;
+    width: 75vw;
+    height: 80vh;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 3;
+    cursor: default;
   }
 }
 
-@media screen and (min-width: 1749px) {
-  .portfolio-item.expanded {
-    transform: translate(-8%, -15%) scale(1);
+@media screen and (max-width: 1370px) {
+  .portfolio-item.expanded .expandable-content .project-links {
+    border: solid;
+    border-color: var(--filepath-text-color);
+    border-width: 3px;
+    border-radius: 8px;
+    width: 50%;
+    padding: 10px;
+  }
+  
+  .portfolio-item.expanded .expandable-content .project-contributors {
+    border: solid;
+    border-color: var(--filepath-text-color);
+    border-width: 3px;
+    border-radius: 8px;
+    width: 50%;
+    padding: 10px;
+  }
+  
+  .portfolio-item.expanded .expandable-content .project-technologies {
+    border: solid;
+    border-color: var(--filepath-text-color);
+    border-width: 3px;
+    border-radius: 8px;
+    width: 50%;
   }
 }
