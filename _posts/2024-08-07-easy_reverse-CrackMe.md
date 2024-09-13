@@ -83,4 +83,4 @@ So now we can construct a password that meets the correct conditions.
 <img src="assets/blog/easy_reverse-crackmes/4.webp" alt="Screenshot 4" />
 
 
-It works! I hope you learned something new, don't forget to check me out on [Youtube](https://youtube.com/@PrintN42) where I have some great videos.
+It works! I hope you learned something new, don't forget to check me out on [Youtube](https://youtube.com/@PrintN42){:target="_blank"} where I have some great videos.

@@ -93,4 +93,4 @@ So let's try typing it in reverse order so the password should be 'h4x0r'
 
 <img src="assets/blog/good_boy-crackmes/6.webp" alt="Screenshot 6" />
 
-It works and we got the message Good Boy! I hope you learned something new, don't forget to check me out on [Youtube](https://youtube.com/@PrintN42) and [𝕏](https://x.com/PrintN42).
+It works and we got the message Good Boy! I hope you learned something new, don't forget to check me out on [Youtube](https://youtube.com/@PrintN42){:target="_blank"} and [𝕏](https://x.com/PrintN42){:target="_blank"}.
