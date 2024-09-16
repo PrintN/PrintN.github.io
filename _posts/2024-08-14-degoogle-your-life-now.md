@@ -41,34 +41,34 @@ Google may offer free services but profit by selling your data to advertisers wi
 Here is a list of alternatives to Google products.
 #### 1. Chrome Browser
 Don't fall into the trap of switching to a chromium based browser like Brave, Opera and Edge.
-- **[LibreWolf](https://librewolf.net/)**: An open source custom version of Firefox, focused on privacy, security and freedom.
-- **[Tor](https://www.torproject.org/)**: While it provides robust protection against tracking and surveillance, be prepared for a slower browsing experience, as your data is routed through a complex onion network to maintain your anonymity.
+- **[LibreWolf](https://librewolf.net/){:target="_blank"}**: An open source custom version of Firefox, focused on privacy, security and freedom.
+- **[Tor](https://www.torproject.org/){:target="_blank"}**: While it provides robust protection against tracking and surveillance, be prepared for a slower browsing experience, as your data is routed through a complex onion network to maintain your anonymity.
 
 
 #### 2. Google Maps
-- **[OpenStreetMaps](https://www.openstreetmap.org/)**: Open source mapping project operates on generous data donations. You can only access it via a browser.
-- **[OsmAnd](https://osmand.net/)**: Open source map and navigation tool enables you to travel while being offline.
+- **[OpenStreetMaps](https://www.openstreetmap.org/){:target="_blank"}**: Open source mapping project operates on generous data donations. You can only access it via a browser.
+- **[OsmAnd](https://osmand.net/){:target="_blank"}**: Open source map and navigation tool enables you to travel while being offline.
 
 
 #### 3. Youtube
-- **[Odysee](https://odysee.com/)**: One of the most popular Youtube alternatives.
+- **[Odysee](https://odysee.com/){:target="_blank"}**: One of the most popular Youtube alternatives.
 
 
 #### 4. Google Authenticator
-- **[Aegis Authenticator](https://getaegis.app/)**: An open source app for Android that enables you to secure your accounts with ease while keeping your data private.
+- **[Aegis Authenticator](https://getaegis.app/){:target="_blank"}**: An open source app for Android that enables you to secure your accounts with ease while keeping your data private.
 
 
 #### 5. Gmail
-- **[Thunderbird](https://www.thunderbird.net/)**: An open source privacy-focused email service offering end-to-end encryption.
+- **[Thunderbird](https://www.thunderbird.net/){:target="_blank"}**: An open source privacy-focused email service offering end-to-end encryption.
 - **Self-Hosted**: This gives you full control over your email privacy and data, but a lot of things could also go wrong if done incorrectly.
 
 
 #### 6. Google Docs / Sheets / Slides
-- **[LibreOffice](https://www.libreoffice.org/)**: A powerful open-source suite for word processing, spreadsheets, and presentations.
+- **[LibreOffice](https://www.libreoffice.org/){:target="_blank"}**: A powerful open-source suite for word processing, spreadsheets, and presentations.
 
 
 #### 7. Google Play Store
-- **[F-Droid](https://f-droid.org/)**: An open source app store for Android that focuses on user privacy and freedom.
+- **[F-Droid](https://f-droid.org/){:target="_blank"}**: An open source app store for Android that focuses on user privacy and freedom.
 
 
 #### 8. Android OS
