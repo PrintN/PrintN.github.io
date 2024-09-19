@@ -3,6 +3,7 @@ title: easy_reverse - Crackmes Walkthrough
 pubDate: 07/08/2024
 description: A walkthrough of "easy_reverse" on Crackmes.
 author: PrintN
+categories: [Writeups, Crackmes]
 tags: [Crackmes,Reverse Engineering,Walkthrough]
 render_with_liquid: false
 ---

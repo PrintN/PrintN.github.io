@@ -3,6 +3,7 @@ title: Should You Be Using A VPN?
 pubDate: 13/09/2024
 description: What are VPNs? Can I trust them? Are they actually useful?
 author: PrintN
+categories: [Privacy]
 tags: [VPN,Privacy]
 render_with_liquid: true
 ---

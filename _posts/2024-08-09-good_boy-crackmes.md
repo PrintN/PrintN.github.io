@@ -3,6 +3,7 @@ title: good_boy - Crackmes Walkthrough
 pubDate: 09/08/2024
 description: A walkthrough of "good_boy" on Crackmes.
 author: PrintN
+categories: [Writeups, Crackmes]
 tags: [Crackmes,Reverse Engineering,Walkthrough]
 render_with_liquid: false
 ---

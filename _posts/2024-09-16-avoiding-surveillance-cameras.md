@@ -3,6 +3,7 @@ title: Avoiding Surveillance Cameras
 pubDate: 16/09/2024
 description: A guide on how to avoid surveillance cameras for the ultra paranoid.
 author: PrintN
+categories: [Privacy]
 tags: [Privacy,Guide,OpSec]
 render_with_liquid: true
 ---

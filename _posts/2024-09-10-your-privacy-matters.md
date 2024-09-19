@@ -3,6 +3,7 @@ title: Your Privacy Matters.
 pubDate: 10/09/2024
 description: Why you should start taking care of your online privacy.
 author: PrintN
+categories: [Privacy]
 tags: [Privacy,Alternatives,Open Source]
 ---
 

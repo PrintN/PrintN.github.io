@@ -3,6 +3,7 @@ title: DeGoogle your life NOW!
 pubDate: 14/08/2024
 description: A guide to stop using Google products.
 author: PrintN
+categories: [Privacy]
 tags: [Google,Guide,Alternatives]
 ---
 ### What is Google
