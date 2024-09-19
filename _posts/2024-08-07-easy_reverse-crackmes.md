@@ -1,10 +1,10 @@
 ---
-title: easy_reverse - Crackmes Walkthrough
+title: easy_reverse - Crackmes Write-Up
 pubDate: 07/08/2024
-description: A walkthrough of "easy_reverse" on Crackmes.
+description: A write-up of "easy_reverse" on Crackmes.
 author: PrintN
-categories: [Writeups, Crackmes]
-tags: [Crackmes,Reverse Engineering,Walkthrough]
+categories: [Write-ups, Crackmes]
+tags: [Reverse Engineering]
 render_with_liquid: false
 ---
 ### Hello 👋 Today we are going to reverse engineer "easy_reverse" from cbm-hackers.

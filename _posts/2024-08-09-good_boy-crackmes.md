@@ -1,10 +1,10 @@
 ---
-title: good_boy - Crackmes Walkthrough
+title: good_boy - Crackmes Write-Up
 pubDate: 09/08/2024
-description: A walkthrough of "good_boy" on Crackmes.
+description: A write-up of "good_boy" on Crackmes.
 author: PrintN
-categories: [Writeups, Crackmes]
-tags: [Crackmes,Reverse Engineering,Walkthrough]
+categories: [Write-ups, Crackmes]
+tags: [Reverse Engineering]
 render_with_liquid: false
 ---
 ### Hello 👋 Today we are going to reverse engineer "good_boy" by fdisotto.
