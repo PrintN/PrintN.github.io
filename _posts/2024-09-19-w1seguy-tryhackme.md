@@ -3,16 +3,17 @@ title: W1seGuy - TryHackMe Write-Up
 pubDate: 19/09/2024
 description: A write-up on the room W1seGuy.
 author: PrintN
+media_subpath: /assets/blog/w1seguy-tryhackme/
+image:
+  path: 0.webp
 categories: [Write-ups, TryHackMe]
 tags: [Cryptography]
 render_with_liquid: false
 ---
 Hello👋 Today we're going to take a look at [W1seGuy](https://tryhackme.com/r/room/w1seguy){:target="_blank"} room on TryHackMe by hadrian3689 and DrGonz0. The difficulty is easy.
-<img src="../assets/blog/w1seguy-tryhackme/0.webp" alt="W1seGuy room picture" />
-
 ## What Does It Do?
 We're being told we have to connect to our target machine IP on port 1337 with Netcat. We can see that it gives us an XOR encrypted string and then asks us to provide an encryption key.
-<img src="../assets/blog/w1seguy-tryhackme/1.webp" alt="Screenshot 1" />
+![Screenshot 1](1.webp)
 
 ## Analyzing The Code
 We're provided with a Source.py file. Let's take a look at it.
@@ -100,10 +101,10 @@ print(f"Encryption key: {key}")
 ```
 
 Connect to the server with Netcat and copy the XOR enctrypted string.
-<img src="../assets/blog/w1seguy-tryhackme/2.webp" alt="Screenshot 2" />
+![Screenshot 2](2.webp)
 
 Next we'll run the decryptor script and paste the string. We'll get the first flag and also the encryption key for the second flag.
-<img src="../assets/blog/w1seguy-tryhackme/3.webp" alt="Screenshot 3" />
+![Screenshot 3](3.webp)
 
 We'll paste the encryption key and we get the second flag!
-<img src="../assets/blog/w1seguy-tryhackme/4.webp" alt="Screenshot 4" />
+![Screenshot 4](4.webp)

@@ -3,12 +3,13 @@ title: Avoiding Surveillance Cameras
 pubDate: 16/09/2024
 description: A guide on how to avoid surveillance cameras for the ultra paranoid.
 author: PrintN
+media_subpath: /assets/blog/avoiding-surveillance-cameras/
+image:
+  path: 1.webp
 categories: [Privacy]
 tags: [Privacy,Guide,OpSec]
 render_with_liquid: true
 ---
-<img src="../assets/blog/avoiding-surveillance-cameras/1.webp" alt="Surveillance cameras" />
-
 ## Why Might You Want to Avoid Surveillance Cameras?
 
 Surveillance cameras are increasingly present in public and private spaces. While their purpose is often linked to safety and security, many people have valid concerns about being constantly monitored. Here are some common motivations for avoiding these cameras:
@@ -45,7 +46,7 @@ One of the simplest strategies for avoiding cameras is to take alternative paths
 
 ### Disguising Your Identity
 
-<img src="../assets/blog/avoiding-surveillance-cameras/2.webp" alt="Man in hoodie" />
+![Man in hoodie](2.webp)
 
 If taking a different route isn't possible, there are practical ways to avoid being identified by surveillance cameras while blending in:
 
