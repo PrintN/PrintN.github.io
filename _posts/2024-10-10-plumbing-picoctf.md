@@ -1,6 +1,6 @@
 ---
 title: Plumbing - PicoCTF Write-Up
-pubDate: 19/09/2024
+pubDate: 10/10/2024
 description: A write-up on the challenge Plumbing.
 author: PrintN
 categories: [Write-ups, PicoCTF]
@@ -46,7 +46,7 @@ Not a flag either
 This is defintely not a flag
 ```
 
-I tried to find the flag by scrolling through the output but with no luck. Looking at the hints, they say that we must remember the flag format is ```picoCTF{XXXX}``` and that we can use [pipe](http://www.linfo.org/pipes.html){:target="_blank"}.
+I tried to find the flag by scrolling through the output but with no luck. Looking at the hints, they say that we must remember the flag format is ```picoCTF{XXXX}``` and that we can use [pipe](https://www.linfo.org/pipes.html){:target="_blank"}.
 
 We can filter out the output by using ```grep``` since we know that the flag always starts with ```picoCTF{```. So we should be able to find the flag by using the following command.
 ```bash
