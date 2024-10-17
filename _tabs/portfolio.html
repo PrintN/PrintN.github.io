@@ -430,9 +430,52 @@ order: 3
       </div>
     </div>
 
+    <h1>Contributions</h1>
+    <!--Empty fill in boxes to make a new line-->
+    <h1></h1>
+    <h1></h1>
+
+    <div class="portfolio-item" onclick="toggleExpand(this)">
+      <div class="image">
+        <img src="assets/portfolio/AimStar.webp" alt="AimStar logo">
+      </div>
+      <div class="expandable-content">
+        <h3>AimStar</h3>
+        <p>
+          AimStar is an open source external Counter Strike 2 cheat. This was my first ever contribution to another open source project. 
+        </p>
+        <div class="project-technologies">
+          <h4>Technologies Used</h4>
+          <div class="tech-icons">
+            <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg"
+            height="40"
+            alt="C++"
+            title="C++"
+          >
+            <img
+            src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg"
+            height="40"
+            alt="Visual Studio logo"
+            title="Visual Studio"
+          >
+          </div>
+        </div>
+        <div class="project-links">
+          <h4>Links</h4>
+          <div class="icons">
+            <a href="https://github.com/CowNowK/AimStar/pull/396" class="icon" target="_blank">
+              <i class="fab fa-github"></i>
+            </a>
+          </div>
+        </div>
+      </div>
+    </div>
+
   </div>
   <div class="overlay"></div>
 </section>
+
 <script>
   document.querySelectorAll('.portfolio-item').forEach((item) => {
     item.addEventListener('click', function (event) {
