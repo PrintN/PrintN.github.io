@@ -3,12 +3,6 @@ title: PermX - HackTheBox Write-Up
 date: 2024-09-28
 description: A write-up on the machine PermX.
 author: PrintN
-media_subpath: /assets/blog/permx-hackthebox/
-image:
-  path: 0.webp
-categories: [Write-ups, HackTheBox]
-tags: [Privilege Escalation]
-render_with_liquid: false
 ---
 ![Image 0](0.webp)
 ## Introduction
