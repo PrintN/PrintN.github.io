@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>OpSec on PrintN</title>
+    <link>http://localhost:1313/tags/opsec/</link>
+    <description>Recent content in OpSec on PrintN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language><atom:link href="http://localhost:1313/tags/opsec/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Avoiding Surveillance Cameras</title>
+      <link>http://localhost:1313/posts/avoiding-surveillance-cameras/2024-09-16-avoiding-surveillance-cameras/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/avoiding-surveillance-cameras/2024-09-16-avoiding-surveillance-cameras/</guid>
+      
+      <description>Why Might You Want to Avoid Surveillance Cameras? Surveillance cameras are increasingly present in public and private spaces. While their purpose is often linked to safety and security, many people have valid concerns about being constantly monitored. Here are some common motivations for avoiding these cameras:
+Activists and Protesters: Individuals advocating for social or political change often wish to protect their identities from authorities or opposing groups. They fear that being identified on camera could lead to harassment, retaliation, or suppression of their efforts.</description>
+      
+    </item>
+    
+    <item>
+      <title>OpSec 101</title>
+      <link>http://localhost:1313/posts/opsec-101/2024-10-03-opsec-101/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/opsec-101/2024-10-03-opsec-101/</guid>
+      
+      <description>Introduction to OpSec Definition: Operational Security (OpSec) is a crucial process designed to safeguard sensitive information from unauthorized access and exploitation. Origins: Originally developed within military operations, OpSec has now become vital in business and personal safety contexts.
+Core Focus: OpSec aims to identify and mitigate risks to protect vital information, ensuring it remains confidential and secure.
+Why You Should Care About OpSec Risks of Ignoring OpSec Silk Road Example: Ross Ulbricht, founder of the Silk Road, made key OpSec mistakes like using his personal email for asking help to built the site on a forum.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fuzzing on PrintN</title>
+    <link>http://localhost:1313/tags/fuzzing/</link>
+    <description>Recent content in Fuzzing on PrintN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language><atom:link href="http://localhost:1313/tags/fuzzing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creative - TryHackMe Write-Up</title>
+      <link>http://localhost:1313/posts/creative-tryhackme/2024-09-24-creative-tryhackme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/creative-tryhackme/2024-09-24-creative-tryhackme/</guid>
+      
+      <description>Introduction Hello👋 Today we&amp;rsquo;re going to take a look at Creative {:target=&amp;quot;_blank&amp;quot;} room on TryHackMe by sSaadakhtarr. The difficulty is easy.
+We&amp;rsquo;ll have to start by adding the target IP Adress to our /etc/hosts use nano or vim to edit this.
+[YOUR_TARGET_IP] creative.thm We can now take a look at the website http://creative.thm. It looks like a simple html website. Enumeration We&amp;rsquo;ll just start off with a simple Nmap scan. We see that the ports 22 and 80 are open.</description>
+      
+    </item>
+    
+  </channel>
+</rss>

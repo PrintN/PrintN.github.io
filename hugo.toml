@@ -1,0 +1,113 @@
+title = "PrintN"
+baseURL = 'https://printn.github.io/'
+languageCode = 'en-us'
+theme = "hugo-blog-awesome"
+
+# Enable emojis globally
+enableEmoji = true
+
+# This defines how dates are formatted
+defaultContentLanguage = "en-gb"
+
+# set markup.highlight.noClasses=false to enable code highlight
+[markup]
+  [markup.highlight]
+    anchorLineNos = false
+    codeFences = true
+    guessSyntax = false
+    hl_Lines = ''
+    hl_inline = false
+    lineAnchors = ''
+    lineNoStart = 1
+    lineNos = false
+    lineNumbersInTable = true
+    noClasses = true
+    noHl = false
+    style = 'hrdark'
+    tabWidth = 4
+  [markup.goldmark.renderer]
+    unsafe = true
+    [markup.tableOfContents]
+      startLevel = 2 # ToC starts from H2
+      endLevel = 4 # ToC ends at H4
+      ordered = true # generates <ul> instead of <ol>
+
+############################## English language ################################
+[Languages.en-gb]
+  languageName = "English"
+  languageCode = "en-gb"
+  contentDir = "content/en"
+  weight = 1
+
+  [Languages.en-gb.menu]
+  [[Languages.en-gb.menu.main]]
+    # The page reference (pageRef) is useful for menu highlighting
+    # When pageRef is set, setting `url` is optional; it will be used as a fallback if the page is not found.
+    pageRef="/"
+    name = 'Home'
+    url = '/'
+    weight = 10
+  [[Languages.en-gb.menu.main]]
+    pageRef="posts"
+    name = 'Posts'
+    url = '/posts/'
+    weight = 20
+  [[Languages.en-gb.menu.main]]
+    pageRef="about"
+    name = 'About'
+    url = '/about/'
+    weight = 30
+
+[Languages.en-gb.params]
+  sitename = "PrintN"
+  defaultColor = "auto" # set default color mode: dark or light or auto
+  description = "welcome to my portfolio / blog"
+  mainSections = ['posts']
+  toc = true # set to false to disable table of contents globally
+  goToTop = true # set to false to disable 'go to top' button
+  dateFormat = "" # date format used to show dates on various pages. If nothing is specified, then "2 Jan 2006" format is used.
+  rssFeedDescription = "summary" # available options: 1) summary 2) full
+  # summary - includes a short summary of the blog post in the RSS feed. Generated using Hugo .Summary .
+  # full - includes full blog post in the RSS feed. Generated using Hugo .Content .
+  # By default (or if nothing is specified), summary is used.
+
+[Languages.en-gb.params.author]
+  intro = "PrintN"
+  name = "PrintN"
+  description = "welcome to my portfolio / blog"
+
+### LANGUAGE SPECIFICATION END ###
+  
+ [[Languages.en-gb.params.socialIcons]]
+ name = "github" 
+ url = "https://github.com/paddy-exe" 
+  
+ [[Languages.en-gb.params.socialIcons]]
+ name = "odysee" 
+ url = "https://odysee.com/@PrintN" 
+
+ [[Languages.en-gb.params.socialIcons]]
+ name = "leetcode"
+ url = "https://leetcode.com/PrintN"
+
+ [[Languages.en-gb.params.socialIcons]]
+ name = "tryhackme"
+ url = "https://tryhackme.com/p/PrintN"
+
+ [[Languages.en-gb.params.socialIcons]] 
+ name = "RSS" 
+ url = "/index.xml" 
+
+[privacy]
+  [privacy.disqus]
+    disable = true
+  [privacy.googleAnalytics]
+    disable = true
+  [privacy.instagram]
+    disable = true
+  [privacy.twitter]
+    disable = true
+  [privacy.vimeo]
+    disable = true
+  [privacy.youtube]
+    disable = true

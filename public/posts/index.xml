@@ -1,0 +1,261 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on PrintN</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on PrintN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 17 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Step-by-Step Guide for Publishing Your Open Source App on F-Droid</title>
+      <link>http://localhost:1313/posts/step-by-step-guide-for-publishing-your-open-source-app-on-f-droid/</link>
+      <pubDate>Sun, 17 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/step-by-step-guide-for-publishing-your-open-source-app-on-f-droid/</guid>
+      
+      <description>Introduction F-Droid is an open source app repository that provides a wide range of free and open source applications for Android devices. It offers a user-friendly alternative to Google Play, focusing on privacy and transparency. I just recently published my app to F-Droid, you can check it out here 👉 Human Benchmark .
+Prerequisites A Linux environment (use a virtual machine if you&amp;rsquo;re on Windows). The app&amp;rsquo;s source code must be publicly accessible on a version control system like GitHub.</description>
+      
+    </item>
+    
+    <item>
+      <title>Collaborative Development - PicoCTF Write-Up</title>
+      <link>http://localhost:1313/posts/collaborative-development-picoctf/</link>
+      <pubDate>Thu, 07 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/collaborative-development-picoctf/</guid>
+      
+      <description>Introduction Today we&amp;rsquo;re going to take a look at the challenge Collaborative Development on PicoCTF by Jeffery John. The difficulty is easy.
+Challenge Description My team has been working very hard on new features for our flag printing program! I wonder how they&amp;rsquo;ll work together? You can download the challenge files here:
+challenge.zip Solution Let’s begin by extracting the contents of the downloaded .zip file and then navigate to the unzipped directory:</description>
+      
+    </item>
+    
+    <item>
+      <title>Lesson Learned? - TryHackMe Write-Up</title>
+      <link>http://localhost:1313/posts/lesson-learned-tryhackme/</link>
+      <pubDate>Mon, 04 Nov 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/lesson-learned-tryhackme/</guid>
+      
+      <description>Introduction Today we&amp;rsquo;re going to take a look at Lesson Learned? room made by TryHackMe and Tib3rius. The difficulty is easy.
+The challenge description states there is no rabbit holes or hidden files but we have to treat the box as a real target. Going to the website https://[MACHINE_IP]/ we&amp;rsquo;re presented with a login form. Enumeration Doing a quick nmap scan we find the ports 22 and 80 open.</description>
+      
+    </item>
+    
+    <item>
+      <title>How To Calculate Time Complexity</title>
+      <link>http://localhost:1313/posts/how-to-calculate-time-complexity/</link>
+      <pubDate>Mon, 28 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/how-to-calculate-time-complexity/</guid>
+      
+      <description>Introduction to Time Complexity Time complexity measures how the time to complete an algorithm grows with the size of its input. Understanding time complexity is crucial for optimizing performance in software development.
+Time Complexity vs. Space Complexity Time Complexity: Focuses on how long an algorithm takes to run. Space Complexity: Relates to how much memory an algorithm uses. Both are essential for efficient software design, as improving one may impact the other.</description>
+      
+    </item>
+    
+    <item>
+      <title>Redaction gone wrong - PicoCTF Write-Up</title>
+      <link>http://localhost:1313/posts/redaction-gone-wrong-picoctf/</link>
+      <pubDate>Thu, 24 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/redaction-gone-wrong-picoctf/</guid>
+      
+      <description>Introduction Hello! 👋 Today, we&amp;rsquo;re going to take a look at the &amp;lsquo;Redaction gone wrong&amp;rsquo; challenge on PicoCTF by Mubarak Mikail. The difficulty level is medium.
+Challenge Description Now you DON’T see me. This report has some critical data in it, some of which have been redacted correctly, while some were not. Can you find an important key that was not redacted properly?
+Solution Let&amp;rsquo;s start by opening the provided PDF file.</description>
+      
+    </item>
+    
+    <item>
+      <title>10 Essential Nmap Flags</title>
+      <link>http://localhost:1313/posts/10-essential-nmap-flags/</link>
+      <pubDate>Wed, 16 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/10-essential-nmap-flags/</guid>
+      
+      <description>What is Nmap? Nmap, short for Network Mapper, is a powerful open-source tool designed for network discovery and security auditing. It&amp;rsquo;s an essential resource for network administrators, helping them identify devices on their networks, discover open ports, and detect potential vulnerabilities. Cybersecurity professionals and penetration testers frequently rely on Nmap to assess network security and bolster defenses.
+Installing Nmap If you&amp;rsquo;re using Kali Linux, you&amp;rsquo;re in luck—Nmap comes pre-installed and ready to go.</description>
+      
+    </item>
+    
+    <item>
+      <title>unpackme - PicoCTF Write-Up</title>
+      <link>http://localhost:1313/posts/unpackme-picoctf/</link>
+      <pubDate>Sat, 12 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/unpackme-picoctf/</guid>
+      
+      <description>Introduction Hello! 👋 Today, we&amp;rsquo;re going to take a look at the &amp;lsquo;unpackme&amp;rsquo; challenge on PicoCTF by LT &amp;lsquo;syreal&amp;rsquo; Jones. The difficulty level is medium.&amp;quot;
+Challenge Description Can you get the flag?
+Reverse engineer this binary .
+Solution So, let&amp;rsquo;s make the binary executable using chmod.
+chmod +x unpackme-upx Now, let&amp;rsquo;s try running the executable and see what it does.
+┌──(printn㉿printn)-[~] └─$ ./unpackme-upx What&amp;#39;s my favorite number? 1 Sorry, that&amp;#39;s not it!</description>
+      
+    </item>
+    
+    <item>
+      <title>Plumbing - PicoCTF Write-Up</title>
+      <link>http://localhost:1313/posts/plumbing-picoctf/</link>
+      <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/plumbing-picoctf/</guid>
+      
+      <description>Introduction Hello👋 Today we&amp;rsquo;re going to take a look at the challenge Plumbing on PicoCTF by Alex Fulton &amp;amp; Danny Tunitis. The difficulty is medium.
+Challenge Description Sometimes you need to handle process data outside of a file. Can you find a way to keep the output from this program and search for the flag? Connect to jupiter.challenges.picoctf.org 4427.
+Solution When we connect to jupiter.challenges.picoctf.org 4427 we&amp;rsquo;re given a bunch of lines saying this is not the flag.</description>
+      
+    </item>
+    
+    <item>
+      <title>Blame Game - PicoCTF Write-Up</title>
+      <link>http://localhost:1313/posts/blame-game-picoctf/</link>
+      <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/blame-game-picoctf/</guid>
+      
+      <description>Introduction Hello👋 Today we&amp;rsquo;re going to take a look at the challenge Blame Game on PicoCTF by Jeffery John. The difficulty is easy.
+Challenge Description Someone&amp;rsquo;s commits seems to be preventing the program from working. Who is it?
+You can download the challenge files here:
+challenge.zip Solution Let’s begin by extracting the contents of the downloaded .zip file and then navigate to the unzipped directory:
+unzip challenge.zip cd drop-in/ Inside this folder, we notice the presence of a .</description>
+      
+    </item>
+    
+    <item>
+      <title>OpSec 101</title>
+      <link>http://localhost:1313/posts/opsec-101/</link>
+      <pubDate>Wed, 02 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/opsec-101/</guid>
+      
+      <description>Introduction to OpSec Definition: Operational Security (OpSec) is a crucial process designed to safeguard sensitive information from unauthorized access and exploitation. Origins: Originally developed within military operations, OpSec has now become vital in business and personal safety contexts.
+Core Focus: OpSec aims to identify and mitigate risks to protect vital information, ensuring it remains confidential and secure.
+Why You Should Care About OpSec Risks of Ignoring OpSec Silk Road Example: Ross Ulbricht, founder of the Silk Road, made key OpSec mistakes like using his personal email for asking help to built the site on a forum.</description>
+      
+    </item>
+    
+    <item>
+      <title>PermX - HackTheBox Write-Up</title>
+      <link>http://localhost:1313/posts/permx-hackthebox/</link>
+      <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/permx-hackthebox/</guid>
+      
+      <description>Introduction Hello👋 Today we&amp;rsquo;re going to take a look at PermX machine on HackTheBox by mtzsec. The difficulty is easy.
+We&amp;rsquo;ll have to start by adding the target IP Adress to our /etc/hosts use nano or vim to edit this.
+[YOUR_TARGET_IP] permx.htb Enumeration We&amp;rsquo;ll start by scanning for open ports with Nmap. We get port 80 and 22, which means there is a website running. There is nothing much of interest on the homepage.</description>
+      
+    </item>
+    
+    <item>
+      <title>Creative - TryHackMe Write-Up</title>
+      <link>http://localhost:1313/posts/creative-tryhackme/</link>
+      <pubDate>Mon, 23 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/creative-tryhackme/</guid>
+      
+      <description>Introduction Hello👋 Today we&amp;rsquo;re going to take a look at Creative room on TryHackMe by sSaadakhtarr. The difficulty is easy.
+We&amp;rsquo;ll have to start by adding the target IP Adress to our /etc/hosts use nano or vim to edit this.
+[YOUR_TARGET_IP] creative.thm We can now take a look at the website http://creative.thm. It looks like a simple html website. Enumeration We&amp;rsquo;ll just start off with a simple Nmap scan. We see that the ports 22 and 80 are open.</description>
+      
+    </item>
+    
+    <item>
+      <title>W1seGuy - TryHackMe Write-Up</title>
+      <link>http://localhost:1313/posts/w1seguy-tryhackme/</link>
+      <pubDate>Wed, 18 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/w1seguy-tryhackme/</guid>
+      
+      <description>Hello👋 Today we&amp;rsquo;re going to take a look at W1seGuy room on TryHackMe by hadrian3689 and DrGonz0. The difficulty is easy.
+What Does It Do? We&amp;rsquo;re being told we have to connect to our target machine IP on port 1337 with Netcat. We can see that it gives us an XOR encrypted string and then asks us to provide an encryption key. Analyzing The Code We&amp;rsquo;re provided with a Source.</description>
+      
+    </item>
+    
+    <item>
+      <title>Avoiding Surveillance Cameras</title>
+      <link>http://localhost:1313/posts/avoiding-surveillance-cameras/</link>
+      <pubDate>Sun, 15 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/avoiding-surveillance-cameras/</guid>
+      
+      <description>Why Might You Want to Avoid Surveillance Cameras? Surveillance cameras are increasingly present in public and private spaces. While their purpose is often linked to safety and security, many people have valid concerns about being constantly monitored. Here are some common motivations for avoiding these cameras:
+Activists and Protesters: Individuals advocating for social or political change often wish to protect their identities from authorities or opposing groups. They fear that being identified on camera could lead to harassment, retaliation, or suppression of their efforts.</description>
+      
+    </item>
+    
+    <item>
+      <title>Should You Be Using A VPN?</title>
+      <link>http://localhost:1313/posts/should-you-be-using-vpns/</link>
+      <pubDate>Thu, 12 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/should-you-be-using-vpns/</guid>
+      
+      <description>Have you ever seen those ads promising that using a VPN will keep you safe from hackers and government surveillance? It’s easy to get caught up in the hype, but how much of it is actually true?What Is A VPN? A Virtual Private Network (VPN) is a technology that routes your internet traffic through a remote server, masking your IP address and hiding your online activity from your Internet Service Provider (ISP).</description>
+      
+    </item>
+    
+    <item>
+      <title>Your Privacy Matters.</title>
+      <link>http://localhost:1313/posts/your-privacy-matters/</link>
+      <pubDate>Mon, 09 Sep 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/your-privacy-matters/</guid>
+      
+      <description>Definition of Privacy The terms privacy, security, and anonymity are often confused and used interchangeably, yet they each serve distinct purposes in the digital world:
+Privacy: The ability to control what information you share and with whom, ensuring that your personal data and activities remain within your chosen boundaries. Security: The protection of your information and digital assets against potential threats or harm, such as hacking or unauthorized access. Anonymity: The ability to act online without revealing your identity, allowing you to engage in activities without being personally identified.</description>
+      
+    </item>
+    
+    <item>
+      <title>DeGoogle your life NOW!</title>
+      <link>http://localhost:1313/posts/degoogle-your-life-now/</link>
+      <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/degoogle-your-life-now/</guid>
+      
+      <description>What is Google We enjoy their free services like Google search, Youtube, maps and the list goes on, but we often forget that nothing truly comes for free. Google collects our data with every search and click, building detailed profiles of us along the way. While we think we&amp;rsquo;re just using helpful apps, we&amp;rsquo;re actually giving away our privacy. As we rely more on Google, we have to wonder: what are we giving up in exchange for convenience?</description>
+      
+    </item>
+    
+    <item>
+      <title>good_boy - Crackmes Write-Up</title>
+      <link>http://localhost:1313/posts/good_boy-crackmes/</link>
+      <pubDate>Thu, 08 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/good_boy-crackmes/</guid>
+      
+      <description>Hello 👋 Today we are going to reverse engineer &amp;ldquo;good_boy&amp;rdquo; by fdisotto. NOTE: Please try to solve this challenge by yourself first before looking at the solution. If you have tried your best and can&amp;rsquo;t solve it then please don&amp;rsquo;t just take the answer and leave immediately because that is not how you learn reverse engineering.
+Prerequisites: Ghidra good_boy executable (unzip with password &amp;ldquo;crackmes.one&amp;rdquo;) What does it do? So the program is very simple it just asks us to provide a password when running it and if we give the false password it calls us a bad boy.</description>
+      
+    </item>
+    
+    <item>
+      <title>easy_reverse - Crackmes Write-Up</title>
+      <link>http://localhost:1313/posts/easy_reverse-crackmes/</link>
+      <pubDate>Tue, 06 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/easy_reverse-crackmes/</guid>
+      
+      <description>Hello 👋 Today we are going to reverse engineer &amp;ldquo;easy_reverse&amp;rdquo; from cbm-hackers. NOTE: Please try to solve this challenge by yourself first before looking at the solution. If you have tried your best and can&amp;rsquo;t solve it then please don&amp;rsquo;t just take the answer and leave immediately because that is not how you learn reverse engineering.
+Prerequisites: Ghidra easy_reverse executable (unzip with password &amp;ldquo;crackmes.one&amp;rdquo;) What does it do? So the program is very simple it just asks us to provide a password when running it.</description>
+      
+    </item>
+    
+    <item>
+      <title>My First Blog Post 🥳</title>
+      <link>http://localhost:1313/posts/my-first-blog-post/</link>
+      <pubDate>Thu, 20 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/my-first-blog-post/</guid>
+      
+      <description> Welcome to my first post on this blog, here is a quick overview of what you can expect: Walkthroughs: TryHackMe, HackTheBox, CrackMes, PicoCTF etc. Projects: explaining why and how I made some of my projects. Random Posts: on topics I find interesting. </description>
+      
+    </item>
+    
+  </channel>
+</rss>

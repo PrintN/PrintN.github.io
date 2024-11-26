@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Git on PrintN</title>
+    <link>http://localhost:1313/tags/git/</link>
+    <description>Recent content in Git on PrintN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 05 Oct 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/git/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Blame Game - PicoCTF Write-Up</title>
+      <link>http://localhost:1313/posts/blame-game-picoctf/</link>
+      <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/blame-game-picoctf/</guid>
+      
+      <description>Introduction Hello👋 Today we&amp;rsquo;re going to take a look at the challenge Blame Game on PicoCTF by Jeffery John. The difficulty is easy.
+Challenge Description Someone&amp;rsquo;s commits seems to be preventing the program from working. Who is it?
+You can download the challenge files here:
+challenge.zip Solution Let’s begin by extracting the contents of the downloaded .zip file and then navigate to the unzipped directory:
+unzip challenge.zip cd drop-in/ Inside this folder, we notice the presence of a .</description>
+      
+    </item>
+    
+  </channel>
+</rss>

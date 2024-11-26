@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Privacy on PrintN</title>
+    <link>http://localhost:1313/categories/privacy/</link>
+    <description>Recent content in Privacy on PrintN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 13 Aug 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/privacy/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>DeGoogle your life NOW!</title>
+      <link>http://localhost:1313/posts/degoogle-your-life-now/</link>
+      <pubDate>Tue, 13 Aug 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/degoogle-your-life-now/</guid>
+      
+      <description>What is Google We enjoy their free services like Google search, Youtube, maps and the list goes on, but we often forget that nothing truly comes for free. Google collects our data with every search and click, building detailed profiles of us along the way. While we think we&amp;rsquo;re just using helpful apps, we&amp;rsquo;re actually giving away our privacy. As we rely more on Google, we have to wonder: what are we giving up in exchange for convenience?</description>
+      
+    </item>
+    
+  </channel>
+</rss>

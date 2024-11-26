@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>UPX on PrintN</title>
+    <link>http://localhost:1313/tags/upx/</link>
+    <description>Recent content in UPX on PrintN</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language><atom:link href="http://localhost:1313/tags/upx/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>unpackme - PicoCTF Write-Up</title>
+      <link>http://localhost:1313/posts/unpackme-picoctf/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/unpackme-picoctf/</guid>
+      
+      <description>Introduction Hello! 👋 Today, we&amp;rsquo;re going to take a look at the &amp;lsquo;unpackme&amp;rsquo; challenge on PicoCTF by LT &amp;lsquo;syreal&amp;rsquo; Jones. The difficulty level is medium.&amp;quot;
+Challenge Description Can you get the flag?
+Reverse engineer this binary .
+Solution So, let&amp;rsquo;s make the binary executable using chmod.
+chmod +x unpackme-upx Now, let&amp;rsquo;s try running the executable and see what it does.
+┌──(printn㉿printn)-[~] └─$ ./unpackme-upx What&amp;#39;s my favorite number? 1 Sorry, that&amp;#39;s not it!</description>
+      
+    </item>
+    
+  </channel>
+</rss>
