@@ -16,7 +16,6 @@ F-Droid is an open source app repository that provides a wide range of free and 
 - The app should not contain any [anti-features](https://f-droid.org/en/docs/Anti-Features/) and must be fully open source, including all dependencies.
 
 > The process of publishing your app to F-Droid can take some time so remember to be patient :)
-{: .prompt-tip }
 
 ## Publishing Your App On F-Droid (Step-By-Step)
 
@@ -121,4 +120,4 @@ Once your app is live, you can add the **"Get It On F-Droid"** badge to your `RE
 ```
 
 ## Conclusion
-I hope this guide has helped you successfully publish your app to F-Droid! If you encounter any issues, don't hesitate to ask for help on the [F-Droid's forum](https://forum.f-droid.org/). Additionally, consider [donating to F-Droid](https://f-droid.org/en/donate/)  to support their mission of providing a free, open, and privacy-respecting app store.
+I hope this guide has helped you successfully publish your app to F-Droid! If you encounter any issues, don't hesitate to ask for help on the [F-Droid`s forum](https://forum.f-droid.org/). Additionally, consider [donating to F-Droid](https://f-droid.org/en/donate/)  to support their mission of providing a free, open, and privacy-respecting app store.

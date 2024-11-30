@@ -22,18 +22,5 @@ unzip challenge.zip cd drop-in/ Inside this folder, we notice the presence of a 
       
     </item>
     
-    <item>
-      <title>PermX - HackTheBox Write-Up</title>
-      <link>http://localhost:1313/posts/permx-hackthebox/</link>
-      <pubDate>Sat, 28 Sep 2024 00:00:00 +0000</pubDate>
-      
-      <guid>http://localhost:1313/posts/permx-hackthebox/</guid>
-      
-      <description>Introduction Hello👋 Today we&amp;rsquo;re going to take a look at PermX machine on HackTheBox by mtzsec. The difficulty is easy.
-We&amp;rsquo;ll have to start by adding the target IP Adress to our /etc/hosts use nano or vim to edit this.
-[YOUR_TARGET_IP] permx.htb Enumeration We&amp;rsquo;ll start by scanning for open ports with Nmap. We get port 80 and 22, which means there is a website running. There is nothing much of interest on the homepage.</description>
-      
-    </item>
-    
   </channel>
 </rss>

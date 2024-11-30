@@ -31,7 +31,6 @@ Proper OpSec helps secure personal and organizational data, reducing the risk of
 Whether you're an individual, business, or organization, good OpSec is essential for protecting privacy and assets.
 
 > Before continuing to read: note that I'm just a random idiot who wrote this. Always do your own research.
-{: .prompt-danger }
 
 ## Getting Good OpSec
 Operational Security (OpSec) involves protecting your personal information and activities from potential adversaries. This includes both your digital and physical presence.

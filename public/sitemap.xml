@@ -62,13 +62,7 @@
     <loc>http://localhost:1313/posts/opsec-101/</loc>
     <lastmod>2024-10-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/hackthebox/</loc>
-    <lastmod>2024-09-28T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/posts/permx-hackthebox/</loc>
-    <lastmod>2024-09-28T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/privilege-escalation/</loc>
     <lastmod>2024-09-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/posts/creative-tryhackme/</loc>
