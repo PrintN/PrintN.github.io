@@ -101,7 +101,6 @@ build:
 To resolve this, simply install [Android Studio](https://developer.android.com/studio/install#linux) and accept the SDK licenses when prompted.
 
 > If you're still encountering issues, consider progressing to the next step and testing your recipe on the CI/CD pipelines in GitLab.
-{: .prompt-info }
 
 ### Merging Your Branch Into Master
 ```bash
@@ -116,7 +115,6 @@ This will trigger a CI/CD pipeline. If all tests pass, you can create a merge re
 Once your app is live, you can add the **"Get It On F-Droid"** badge to your `README.md`.
 ```html
 <a href="https://f-droid.org/packages/[YOUR_APP_ID]"><img src="https://f-droid.org/badge/get-it-on.png" width="20%"></a>
-</div>
 ```
 
 ## Conclusion
