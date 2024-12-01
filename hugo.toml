@@ -80,11 +80,15 @@ defaultContentLanguage = "en-gb"
   
  [[Languages.en-gb.params.socialIcons]]
  name = "github" 
- url = "https://github.com/paddy-exe" 
+ url = "https://github.com/PrintN" 
   
  [[Languages.en-gb.params.socialIcons]]
  name = "odysee" 
  url = "https://odysee.com/@PrintN" 
+
+ [[Languages.en-gb.params.socialIcons]]
+ name = "youtube" 
+ url = "https://youtube.com/@PrintN42" 
 
  [[Languages.en-gb.params.socialIcons]]
  name = "leetcode"
