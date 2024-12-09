@@ -6,7 +6,20 @@
     <description>Recent content in Posts on PrintN</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sun, 17 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Set Up an RSS Feed Benefits and Reasons</title>
+      <link>http://localhost:1313/posts/why-you-should-start-using-rss-feed/</link>
+      <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/why-you-should-start-using-rss-feed/</guid>
+      
+      <description>What is RSS? RSS (Really Simple Syndication), is a way to get updates from your favorite websites and blogs in one place. It&amp;rsquo;s like a personalized feed that delivers new content from the sites you care about, so you don&amp;rsquo;t have to constantly check them individually.
+Why You Should Start Using RSS There are many reasons why one should setup a RSS feed. Here are the main reasons.
+Productivity: Save time by getting all your favorite content in one place.</description>
+      
+    </item>
+    
     <item>
       <title>Step-by-Step Guide for Publishing Your Open Source App on F-Droid</title>
       <link>http://localhost:1313/posts/step-by-step-guide-for-publishing-your-open-source-app-on-f-droid/</link>

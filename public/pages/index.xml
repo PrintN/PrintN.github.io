@@ -19,5 +19,16 @@ Projects YouTube Automation Bot I built this YouTube automation bot as a fun sid
       
     </item>
     
+    <item>
+      <title>Donate</title>
+      <link>http://localhost:1313/pages/donate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pages/donate/</guid>
+      
+      <description>Support me by donating Monero!</description>
+      
+    </item>
+    
   </channel>
 </rss>

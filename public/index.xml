@@ -6,7 +6,20 @@
     <description>Recent content in Home on PrintN</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 30 Nov 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 09 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Why You Should Set Up an RSS Feed</title>
+      <link>http://localhost:1313/posts/why-you-should-start-using-rss-feed/</link>
+      <pubDate>Mon, 09 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/why-you-should-start-using-rss-feed/</guid>
+      
+      <description>What is RSS? RSS (Really Simple Syndication), is a way to get updates from your favorite websites and blogs in one place. It&amp;rsquo;s like a personalized feed that delivers new content from the sites you care about, so you don&amp;rsquo;t have to constantly check them individually.
+Why You Should Start Using RSS There are many reasons why one should setup a RSS feed. Here are the main reasons.
+Productivity: Save time by getting all your favorite content in one place.</description>
+      
+    </item>
+    
     <item>
       <title>About</title>
       <link>http://localhost:1313/pages/about/</link>
@@ -266,6 +279,17 @@ Prerequisites: Ghidra easy_reverse executable (unzip with password &amp;ldquo;cr
       <guid>http://localhost:1313/posts/my-first-blog-post/</guid>
       
       <description> Welcome to my first post on this blog, here is a quick overview of what you can expect: Walkthroughs: TryHackMe, HackTheBox, CrackMes, PicoCTF etc. Projects: explaining why and how I made some of my projects. Random Posts: on topics I find interesting. </description>
+      
+    </item>
+    
+    <item>
+      <title>Donate</title>
+      <link>http://localhost:1313/pages/donate/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/pages/donate/</guid>
+      
+      <description>Coming soon!</description>
       
     </item>
     
