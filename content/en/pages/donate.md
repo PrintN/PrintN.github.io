@@ -4,4 +4,4 @@ description: 'Donate and support PrintN'
 author: PrintN
 toc: false
 ---
-Coming soon!
+Monero (XMR) donations will become available soon!
