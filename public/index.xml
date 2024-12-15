@@ -1,12 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on PrintN</title>
+    <title>PrintN</title>
     <link>http://localhost:1313/</link>
-    <description>Recent content in Home on PrintN</description>
+    <description>Recent content on PrintN</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Mon, 09 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 15 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Links</title>
+      <link>http://localhost:1313/links/</link>
+      <pubDate>Sun, 15 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/links/</guid>
+      
+      <description>Here are some links to websites and YouTube channels I recommend you checking out.</description>
+      
+    </item>
+    
     <item>
       <title>Why You Should Set Up an RSS Feed</title>
       <link>http://localhost:1313/posts/why-you-should-start-using-rss-feed/</link>
@@ -22,10 +33,10 @@ Productivity: Save time by getting all your favorite content in one place.</desc
     
     <item>
       <title>About</title>
-      <link>http://localhost:1313/pages/about/</link>
+      <link>http://localhost:1313/about/</link>
       <pubDate>Sat, 30 Nov 2024 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pages/about/</guid>
+      <guid>http://localhost:1313/about/</guid>
       
       <description>Hi 👋 I&amp;rsquo;m PrintN. I enjoy creating scripts and applications as well as playing Capture The Flags. I have been into cybersecurity and programming as a hobby for about 2 years.
 Projects YouTube Automation Bot I built this YouTube automation bot as a fun side project using Python and GitHub Actions to run daily. I wanted to learn more about video creation with Python and was inspired by the many automated channels on YouTube.</description>
@@ -284,10 +295,10 @@ Prerequisites: Ghidra easy_reverse executable (unzip with password &amp;ldquo;cr
     
     <item>
       <title>Donate</title>
-      <link>http://localhost:1313/pages/donate/</link>
+      <link>http://localhost:1313/donate/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://localhost:1313/pages/donate/</guid>
+      <guid>http://localhost:1313/donate/</guid>
       
       <description>Monero (XMR) donations will become available soon!</description>
       

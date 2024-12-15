@@ -203,7 +203,7 @@ Hi 👋 I'm PrintN. I enjoy creating scripts and applications as well as playing
 <h2>Contributions</h2>
 <details>
     <summary>AimStar</summary>
-    <p>AimStar is an open-source external cheat for Counter-Strike 2. This was my first contribution to another open-source project. I added a hotkey for the ESP feature, which was simple to implement but very useful, as it allows players to play more naturally.</p>
+    <p>AimStar is an open-source external cheat for Counter-Strike 2. This was my first contribution to another open-source project. I added a hotkey for the ESP feature, which was simple to implement but very useful, as it allows players to play more naturally. <br><strong>Note: the official AimStar repo was flagged by GitHub</strong></p>
     <div class="technologies">
         <div class="tech-header">
             <h6>Technologies Used:</h6>
@@ -215,7 +215,8 @@ Hi 👋 I'm PrintN. I enjoy creating scripts and applications as well as playing
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-original.svg" alt="Visual Studio" title="Visual Studio">
             </div>
             <div class="project-links">
-                <a href="https://github.com/yourusername/aimstar" target="_blank">GitHub</a>
+                <a href="https://github.com/PrintN/AimStar" target="_blank">GitHub</a>
+                <a href="https://github.com/CowNowK/AimStar/pull/396" target="_blank">Pull Request</a>
             </div>
         </div>
     </div>
