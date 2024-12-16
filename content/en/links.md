@@ -2,7 +2,6 @@
 title: Links
 description: 'Links to different blogs and YouTube channels I recommend checking out.'
 author: PrintN
-date: 2024-12-15
 toc: false
 ---
 
@@ -16,3 +15,4 @@ Here are some links to websites and YouTube channels I recommend you checking ou
 - Mental Outlaw ([Odysee](https://odysee.com/@AlphaNerd:8), [YouTube](https://www.youtube.com/@MentalOutlaw))
 - Luke Smith ([Odysee](https://odysee.com/@Luke:7), [YouTube](https://www.youtube.com/@LukeSmithxyz))
 - Horses ([YouTube](https://www.youtube.com/@HorsesOnYT))
+- Eric Murphy ([Odysee](https://odysee.com/@ericnmurphy:9), [YouTube](https://www.youtube.com/@EricMurphyxyz))

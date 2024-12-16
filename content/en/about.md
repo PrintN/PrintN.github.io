@@ -2,7 +2,6 @@
 title: About
 description: 'Who is PrintN?'
 author: PrintN
-date: 2024-11-30
 toc: false
 ---
 
