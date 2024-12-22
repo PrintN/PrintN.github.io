@@ -6,7 +6,19 @@
     <description>Recent content in Posts on PrintN</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 18 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Understand Your Threat Model</title>
+      <link>http://localhost:1313/posts/understand-your-threat-model/</link>
+      <pubDate>Tue, 17 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/understand-your-threat-model/</guid>
+      
+      <description>What Is a Threat Model? A threat model is a way to systematically identify and evaluate potential security risks to a system or asset. It helps both individuals and organizations recognize their vulnerabilities, understand the possible impacts of different threats, and determine the best strategies to protect against them.
+Assesing Your Threat Model https://ericmurphy.xyz/images/spectrum.png When assessing your individual threat model, consider the following steps to create a practical and effective strategy:</description>
+      
+    </item>
+    
     <item>
       <title>Why You Should Set Up an RSS Feed</title>
       <link>http://localhost:1313/posts/why-you-should-start-using-rss-feed/</link>
