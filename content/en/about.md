@@ -199,6 +199,28 @@ Hi 👋 I'm PrintN. I enjoy creating scripts and applications as well as playing
     </div>
 </details>
 
+<details>
+    <summary>whoareyou</summary>
+    <p>A website that mimics a terminal interface, allowing users to run the 'whoami' command to see what information websites can access about them. It was made to raise awareness about all the data that websites can collect about you.</p>
+    <div class="technologies">
+        <div class="tech-header">
+            <h6>Technologies Used:</h6>
+            <h6>Links:</h6>
+        </div>
+        <div class="tech-content">
+            <div class="tech-icons">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" title="JavaScript">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" title="HTML5">
+                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" title="CSS3">
+            </div>
+            <div class="project-links">
+                <a href="https://github.com/PrintN/whoareyou" target="_blank">GitHub</a>
+                <a href="https://printn.github.io/whoareyou" target="_blank">Website</a>
+            </div>
+        </div>
+    </div>
+</details>
+
 <h2>Contributions</h2>
 <details>
     <summary>AimStar</summary>
