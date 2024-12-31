@@ -6,7 +6,19 @@
     <description>Recent content in Posts on PrintN</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 17 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 31 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Recap of 2024 🥳</title>
+      <link>http://localhost:1313/posts/recap-of-2024/</link>
+      <pubDate>Tue, 31 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/recap-of-2024/</guid>
+      
+      <description>Welcome to my 2024 recap! In this post, I&amp;rsquo;ll share all the things I have done in 2024 and my plans for the next year (2025) 😀
+Things I have done in 2024 My Coding Journey in 2024 The year 2024 was an exciting and productive one for me in terms of coding. To improve my coding skills and work on projects more frequently, I made some effort to dedicate time to code / work on a project almost daily.</description>
+      
+    </item>
+    
     <item>
       <title>Understand Your Threat Model</title>
       <link>http://localhost:1313/posts/understand-your-threat-model/</link>
