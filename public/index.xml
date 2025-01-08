@@ -6,7 +6,21 @@
     <description>Recent content in Home on PrintN</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Tue, 31 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 08 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>FactCheck - PicoCTF Write-Up</title>
+      <link>http://localhost:1313/posts/factcheck-picoctf/</link>
+      <pubDate>Wed, 08 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/factcheck-picoctf/</guid>
+      
+      <description>Introduction Hello👋 Today we&amp;rsquo;re going to take a look at the challenge FactCheck on PicoCTF by Junias Bonou. The difficulty is medium.
+Challenge Description This binary is putting together some important piece of information&amp;hellip; Can you uncover that information? Examine this file . Do you understand its inner workings?
+Solution Let’s start by downloading the file.
+wget https://artifacts.picoctf.net/c_titan/186/bin Running strings on the file gives us a part of the flag.</description>
+      
+    </item>
+    
     <item>
       <title>Recap of 2024 🥳</title>
       <link>http://localhost:1313/posts/recap-of-2024/</link>
