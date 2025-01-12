@@ -43,5 +43,15 @@ Here are some links to websites and YouTube channels I recommend you checking ou
 
 <details>
     <summary>GitHub Repositories</summary>
-    <a href="https://github.com/mendel5/alternative-front-ends" target="_blank">Alternative Frontends</a>
+    <a href="https://github.com/mendel5/alternative-front-ends" target="_blank">alternative-front-ends</a>
+    <br>
+    <a href="https://github.com/Lissy93/awesome-privacy" target="_blank">Awesome Privacy</a>
+    <br>
+    <a href="https://github.com/awesome-selfhosted/awesome-selfhosted" target="_blank">Awesome-Selfhosted</a>
+    <br>
+    <a href="https://github.com/VSCodium/vscodium" target="_blank">VSCodium</a>
+    <br>
+    <a href="https://github.com/keepassxreboot/keepassxc" target="_blank">KeePassXC</a>
+    <br>
+    <a href="https://github.com/simplex-chat/simplex-chat" target="_blank">SimpleX Chat</a>
 </details>
