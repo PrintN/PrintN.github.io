@@ -6,7 +6,20 @@
     <description>Recent content in Posts on PrintN</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Wed, 08 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 17 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My Predictions Of The Future Of AI &amp; How To Prepare For It</title>
+      <link>http://localhost:1313/posts/my-predictions-of-the-future-of-ai-and-how-to-prepare-for-it/</link>
+      <pubDate>Fri, 17 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/my-predictions-of-the-future-of-ai-and-how-to-prepare-for-it/</guid>
+      
+      <description>Introduction Artificial Intelligence (AI) has been around for over 60 years, but it has only recently begun to capture the public&amp;rsquo;s attention. With the release of advanced AI models like ChatGPT, everybody and their grandma are increasingly aware of its potential impact on our lives and jobs.
+My Predictions Here are some possible scenarious for how the future of AI may look like.
+Scenario 1: AI to AGI to ASI As AI continues to improve, we will eventually reach the stage of AGI (Artificial General Intelligence), where AI will have the ability to understand, learn, and apply knowledge across a wide range of tasks at a level equal to human capability.</description>
+      
+    </item>
+    
     <item>
       <title>FactCheck - PicoCTF Write-Up</title>
       <link>http://localhost:1313/posts/factcheck-picoctf/</link>
